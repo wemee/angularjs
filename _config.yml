@@ -8,7 +8,7 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : AngularJS基本教學
+title : AngularJS 基本教學
 tagline: 個人學習心得分享
 author :
   name : WEMEE
